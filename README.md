@@ -1,7 +1,6 @@
 # Soyeong Kim 김소영
 ---
 ## 🛠️ Skills
----
 #### Language
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
@@ -10,10 +9,8 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
  
 ## 💻 Project
----
 
 ## Education
----
 - **SKT FLYAI 2기** 2022.12.19~2023.02.28
 
 <!--
