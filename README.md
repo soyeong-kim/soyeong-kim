@@ -1,6 +1,6 @@
 # Soyeong Kim 김소영
 
-## 🛠️ Skills 🛠️
+<h2 align="center"></b>🛠️ Skills 🛠️</b></h3>
 <h3 align="center"></b>Language</b></h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -21,9 +21,11 @@
 - **SKT FLYAI 2기** 2022.12.19~2023.02.28
 
 ## 😊 Follow Me 😊
-<p align="center">
- <a href="https://velog.io/@so-kr"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
-</p>
+<a href="https://velog.io/@so-kr"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
+
+<div align="center">
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeong-kim&count_bg=%23F0CFC3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
 <!--
 **soyeong-kim/soyeong-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
