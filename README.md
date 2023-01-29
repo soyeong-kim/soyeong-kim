@@ -1,6 +1,6 @@
 # Soyeong Kim 김소영
 
-## 🛠️ Skills
+<h2 align="center"></b>🛠️ Skills</b></h2>
 <h3 align="center"></b>Language</b></h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
