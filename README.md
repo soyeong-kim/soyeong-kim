@@ -20,7 +20,7 @@
 ## 🏫 Education 🏫
 - **SKT FLYAI 2기** 2022.12.19~2023.02.28
 
-## 😊 Follow Me 😊
+<h2 align="center">😊 Follow Me 😊</h3>
 <p align="center">
  <a href="https://velog.io/@so-kr"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </p>
