@@ -1,6 +1,6 @@
 # Soyeong Kim 김소영
 
-<h2 align="center"></b>🛠️ Skills</b></h2>
+## 🛠️ Skills 🛠️
 <h3 align="center"></b>Language</b></h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -14,12 +14,13 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
 </p>
-## 💻 Project
 
-## 🏫 Education
+## 💻 Project 💻
+
+## 🏫 Education 🏫
 - **SKT FLYAI 2기** 2022.12.19~2023.02.28
 
-## 😊 Follow Me
+## 😊 Follow Me 😊
 <p align="center">
  <a href="https://velog.io/@so-kr"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>&nbsp
 </p>
