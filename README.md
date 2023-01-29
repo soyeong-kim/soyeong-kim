@@ -1,5 +1,7 @@
 # Soyeong Kim 김소영
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeong-kim&count_bg=%23F7C9CB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h2 align="center">🛠️ Skills 🛠️</h3>
 <h3 align="center"></b>Language</b></h3>
 <p align="center">
