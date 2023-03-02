@@ -20,7 +20,9 @@
 </div>
 
 ## 💻 Project
-- **SKT FLYAI 2기 프로젝트** 
+- **SKT FLY AI Challenger 2기 프로젝트**<br/>
+VideoDot: 5분 뚝딱 자동 브이로그 생성 서비스
 
 ## 🏫 Education
-- **SKT FLYAI 2기** 2022.12.19~2023.02.28
+- **SK텔레콤 FLY AI Challenger 2기** 2022.12.19~2023.02.28<br/>
+SK Tech 기반 핵심 개발자 양성 프로그램
