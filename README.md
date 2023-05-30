@@ -21,7 +21,7 @@
 
 ## 💻 Project
 - **SK텔레콤 FLY AI Challenger 2기 프로젝트**<br/>
-VideoDot: 5분 뚝딱 자동 브이로그 생성 서비스 [*[VideoDot-project]*]()<br/>
+VideoDot: 5분 뚝딱 자동 브이로그 생성 서비스 [*[skt-fly-teamHashTag-NLP]*](https://github.com/soyeong-kim/skt-fly-teamHashTag-NLP)<br/>
 
 ## 🏫 Education
 - **SK텔레콤 FLY AI Challenger 2기** 2022.12.19~2023.02.28<br/>
